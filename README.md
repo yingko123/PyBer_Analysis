@@ -18,12 +18,11 @@ When we examine the weekly total fare by city type over the first four month of 
 <img src = "Resources/PyBer_fare_summary.png" width="650px">
 <br>
 
-## Summary: <br>
+## Summary:
 Based on this initial data analysis, we have the following recommendations:
 <br>
 
-* Since there are more rides than drivers in the Urban city type, we recommend increasing the marketing budget in the Urban city markets. We believe this can fully utilize the driver capacity in this type of city.
-<br>
+* Since there are more rides than drivers in the Urban city type, we recommend increasing the marketing budget in the Urban city markets. We believe this can fully utilize the driver capacity in this type of city.<br>
 
 * Consider examining the company resources allocating to the rural city markets are proportional to their much smaller revenue contribution to PyBer.  Should PyBer reallocate these resources to markets with higher fare potentials?<br>
 
